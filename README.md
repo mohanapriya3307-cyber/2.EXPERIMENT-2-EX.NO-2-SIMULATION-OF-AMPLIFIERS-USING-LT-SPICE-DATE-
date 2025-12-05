@@ -39,35 +39,41 @@ DATE:
 
 PASTE THE CIRCUIT HERE
 ---
+![WhatsApp Image 2025-12-05 at 16 06 42_6604a6df](https://github.com/user-attachments/assets/18c5ccd2-5662-4a08-a2f5-d63b8142a13d)
 
 
----
-## OUTPUT WAVEFORM AND DISCUSSION 
 
 PASTE THE OUTPUT WAVEFORM HERE
 ---
+
+![WhatsApp Image 2025-12-05 at 15 59 09_99159333](https://github.com/user-attachments/assets/ccf0aa28-5134-4d31-88c2-6b382f9f8005)
+
+
 3.## CIRCUIT DIAGRAM - DIFFERENTIAL AMPLIFIER 
 
 PASTE THE CIRCUIT HERE
 ---
+![WhatsApp Image 2025-12-05 at 16 11 15_e82273d6](https://github.com/user-attachments/assets/4e38ebf6-44ef-4e9a-9297-83b2b9d37f67)
 
 
 
-## OUTPUT WAVEFORM AND DISCUSSION 
 
 PASTE THE OUTPUT WAVEFORM HERE
 ---
+![WhatsApp Image 2025-12-05 at 15 56 59_9c7438c4](https://github.com/user-attachments/assets/6f28512d-beda-458b-b0b0-e68202ad9fa3)
+
 4.## CIRCUIT DIAGRAM - INSTRUMENTATION AMPLIFIER
 
 PASTE THE CIRCUIT HERE
 ---
 
+![WhatsApp Image 2025-12-05 at 16 12 56_9471843e](https://github.com/user-attachments/assets/40c3ec71-c004-4b89-8024-d047b7d9c677)
 
-
-## OUT PUT WAVEFORM AND DISCUSSION 
 
 PASTE THE OUTPUT WAVEFORM HERE
 ---
+![WhatsApp Image 2025-12-05 at 15 56 26_701d9702](https://github.com/user-attachments/assets/54e3e215-45be-4452-b081-605075e62545)
+
 
 ## RESULT
 Thus, the Inverting,Non-Inverting, Differential, and Instrumentation Amplifiers were designed and their performance successfully tested using LT-SPICE.
